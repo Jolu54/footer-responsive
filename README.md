@@ -1,6 +1,6 @@
 #Footer Responsive
 Footer responsive ready to edit.
->This footes is made with HMTL and CSS, its ready to edit o join to your web page>
+>This footer is made with HMTL and CSS, its ready to edit o join to your web page>
 
 #Footer Responsivo
 Footer responsivo listo para editar.
